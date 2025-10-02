@@ -5,6 +5,7 @@ def suma(a, b):
 def resta(a, b):
     return a - b;
     # TODO: implementar
+    return a - b
     pass
 
 def multiplicar(a, b):
