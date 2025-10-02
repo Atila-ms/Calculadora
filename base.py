@@ -1,11 +1,11 @@
 def suma(a, b):
     # TODO: implementar
+    return a + b 
     pass
 
 def resta(a, b):
     return a - b;
     # TODO: implementar
-    return a - b
     pass
 
 def multiplicar(a, b):
